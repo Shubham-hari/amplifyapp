@@ -1,4 +1,4 @@
-{
+ {
   "staging": {
     "awscloudformation": {
       "AuthRoleName": "amplify-amplifydc35a19eb8074-staging-05717-authRole",
